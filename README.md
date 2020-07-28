@@ -8,3 +8,6 @@ Get the latest developments from the tech world!
 
 ![Screenshot 2020-07-27 at 4 11 45 PM](https://user-images.githubusercontent.com/67234999/88623774-53b82a80-d0c3-11ea-850d-24eef622a23d.png)
 ![Screenshot 2020-07-27 at 4 12 17 PM](https://user-images.githubusercontent.com/67234999/88623776-54e95780-d0c3-11ea-8237-a02eb576f3f7.png)
+
+### Uses SwiftUI
+![images](https://user-images.githubusercontent.com/67234999/88625051-ad215900-d0c5-11ea-9305-2d73c1793d97.jpg)
